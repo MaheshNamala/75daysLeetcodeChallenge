@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MaheshNamala/75daysLeetcodeChallenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MaheshNamala/75daysLeetcodeChallenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/MaheshNamala/75daysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/MaheshNamala/75daysLeetcodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MaheshNamala/75daysLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/MaheshNamala/75daysLeetcodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/MaheshNamala/75daysLeetcodeChallenge/tree/master/0739-daily-temperatures) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/MaheshNamala/75daysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MaheshNamala/75daysLeetcodeChallenge/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/MaheshNamala/75daysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/MaheshNamala/75daysLeetcodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/MaheshNamala/75daysLeetcodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MaheshNamala/75daysLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/MaheshNamala/75daysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MaheshNamala/75daysLeetcodeChallenge/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/MaheshNamala/75daysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/MaheshNamala/75daysLeetcodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -81,11 +84,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MaheshNamala/75daysLeetcodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MaheshNamala/75daysLeetcodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/MaheshNamala/75daysLeetcodeChallenge/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/MaheshNamala/75daysLeetcodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MaheshNamala/75daysLeetcodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/MaheshNamala/75daysLeetcodeChallenge/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/MaheshNamala/75daysLeetcodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
 |  |
 | ------- |
